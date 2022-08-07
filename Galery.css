@@ -1,0 +1,16 @@
+    body{
+        background-color: #3B2F2F;
+    }    
+    
+    .begin{
+        border: 3px solid #9457EB;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        color: #9457EB;
+        padding:10px 0px 10px 0px;
+    }
+            img{
+                border: 1px solid #9457EB;
+                margin: 10px 10px 10px 10px;
+
+            }

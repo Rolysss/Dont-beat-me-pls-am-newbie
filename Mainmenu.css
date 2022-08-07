@@ -1,0 +1,85 @@
+    .block1{
+        display: flex;
+        border:5px solid #9457EF;
+        position: fixed;
+        left:100px;
+        top:200px;
+        width:90mm;
+        height:130mm;
+        text-align: center;
+        font-size:large;
+        font-family: 'Times New Roman', Times, serif;
+        border-radius:10px;
+    }
+        .block2{
+            display: flex;
+            border:5px solid #9457EF;
+            position:fixed;
+            right: 600px;
+            top: 200px;
+            width: 90mm ;
+            height:130mm ;
+            text-align: center;
+            font-size:large;  
+            font-family: 'Times New Roman', Times, serif;
+            border-radius:10px; 
+        }
+        .block2:hover{
+            
+        }
+            .block3{
+            display: flex;
+            border:5px solid #9457EF;
+            position:fixed;
+            right:100px;
+            top:200px;
+            width:90mm ;
+            height:130mm ;
+            text-align: center;
+            font-size:large;
+            font-family: 'Times New Roman', Times, serif;
+            border-radius:10px;
+            }
+                .body{
+                background-image: url('https://get.wallhere.com/photo/anime-manga-fan-art-anime-girls-illustration-minimalism-monochrome-dark-background-underwear-pantsu-shot-ecchi-Kuen-1979583.jpg');
+                background-repeat:no-repeat;
+                background-position:0 0;
+                background-size:100%;
+                background-color:#3B2F2F ;
+                
+                
+            }
+                    .text1,.text2,.text3{
+                    color: #9457EF;
+                    position: absolute;
+                    justify-content:center;
+                    top:50px;
+                    font-size: medium;
+                    font-family: 'Times New Roman', Times, serif;
+                    }
+                        .link{
+                        color: #9457EB;
+                        text-align: center;
+                        border: 4px solid #9457EB;
+                        border-left: #9457EB;
+                        border-right: #9457EB;
+                        border-top: #9457EB;
+                        width:91mm;
+                        height:10mm ;
+                        position: absolute;
+                        font-family: 'Times New Roman', Times, serif;
+                        }
+                            
+                        .link:visited{
+                            color:darkcyan;
+                            font-style:normal;
+                        }   
+                            
+                            .link:hover{
+                                color: #12D3E1;
+                                font-style:italic;
+                            }
+                            .PIZDASAITUOTKRITIKI{
+                                    border:3px solid #9457EB;
+                                    color:#12D3E1
+                                }
